@@ -1,2 +1,3 @@
 # antguo-vue3-vite-ts
-vue3+vite+ts框架
+
+Vue 3 + Typescript + Vite
